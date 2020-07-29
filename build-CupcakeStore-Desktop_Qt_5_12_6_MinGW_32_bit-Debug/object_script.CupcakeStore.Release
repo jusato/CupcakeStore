@@ -1,0 +1,14 @@
+release/gestaomembros.o
+release/gestaopets.o
+release/gestaopetsadotados.o
+release/log.o
+release/main.o
+release/mainwindow.o
+release/novaadocao.o
+release/qrc_recursoss.o
+release/moc_gestaomembros.o
+release/moc_gestaopets.o
+release/moc_gestaopetsadotados.o
+release/moc_log.o
+release/moc_mainwindow.o
+release/moc_novaadocao.o

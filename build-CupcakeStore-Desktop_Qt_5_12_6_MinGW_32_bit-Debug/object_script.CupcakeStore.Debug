@@ -1,0 +1,14 @@
+debug/gestaomembros.o
+debug/gestaopets.o
+debug/gestaopetsadotados.o
+debug/log.o
+debug/main.o
+debug/mainwindow.o
+debug/novaadocao.o
+debug/qrc_recursoss.o
+debug/moc_gestaomembros.o
+debug/moc_gestaopets.o
+debug/moc_gestaopetsadotados.o
+debug/moc_log.o
+debug/moc_mainwindow.o
+debug/moc_novaadocao.o
