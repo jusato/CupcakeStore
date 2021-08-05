@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/Imagens">
+        <file>imgs/Blog.jpg</file>
+        <file>imgs/loginIcon.png</file>
+        <file>imgs/bk3.jpg</file>
+        <file>imgs/cp3.jpg</file>
+        <file>imgs/22.jpg</file>
+        <file>imgs/th.png</file>
+        <file>imgs/ee.png</file>
+        <file>imgs/ess.png</file>
+        <file>imgs/Nolog.png</file>
+        <file>imgs/Yeslog1.png</file>
+        <file>imgs/111.jpg</file>
+        <file>imgs/sss8.jpg</file>
+        <file>imgs/fechado.png</file>
+        <file>imgs/aberto.png</file>
+    </qresource>
+</RCC>
