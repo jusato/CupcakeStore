@@ -31,7 +31,7 @@ Na página inicial, o usuário pode:
 
 <p align="center">
   <img src="./other files/imgs-tela/1_home.png" width="450px">
-  &nbsp&nbsp&nbsp<img src="./other files/imgs-tela/4_logado.png" width="450px">
+  <img src="./other files/imgs-tela/4_logado.png" width="450px">
 </p>
 
    _*Após a realização do login, aparece o nome do membro da loja que está logado na parte inferior da tela._
