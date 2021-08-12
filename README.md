@@ -58,7 +58,7 @@ There are 3 types of accounts:
 - Adicionar um novo produto ao estoque da loja.
 
 <p align="center">
-  <img src="./other files/imgs-tela/5_novoProduto.png" width="65%">
+  <img src="./other files/imgs-tela/5_novoProduto.png" width="70%">
 </p>
 
 ### Gerenciamento de produtos
@@ -67,9 +67,9 @@ There are 3 types of accounts:
 - Pesquisar por um produto.
 
 <p align="center">
-  <img src="./other files/imgs-tela/6_gestãoProdutos_editar.png" width="65%">
+  <img src="./other files/imgs-tela/6_gestãoProdutos_editar.png" width="70%">
   <br>
-  <img src="./other files/imgs-tela/6_gestãoProdutos_pesquisar.png" width="65%">
+  <img src="./other files/imgs-tela/6_gestãoProdutos_pesquisar.png" width="70%">
 </p>
 
 ## Funcionários
@@ -77,7 +77,7 @@ There are 3 types of accounts:
 - Adicionar uma conta para um novo membro da loja.
 
 <p align="center">
-  <img src="./other files/imgs-tela/7_membros.png" width="55%px">
+  <img src="./other files/imgs-tela/7_membros.png" width="60%">
 </p>
 
 ### Gerenciamento de funcionários
@@ -85,7 +85,7 @@ There are 3 types of accounts:
 - Ver os membros atuais.
 
 <p align="center">
-  <img src="./other files/imgs-tela/9_membrosAtuais_editar.png" width="55%">
+  <img src="./other files/imgs-tela/9_membrosAtuais_editar.png" width="60%">
 </p>
 
 ## Compra de produtos 
@@ -96,9 +96,9 @@ There are 3 types of accounts:
 - Finalizar a compra.
 
 <p align="center">
-  <img src="./other files/imgs-tela/11_produtos_adicionar.png" width="80%px">
+  <img src="./other files/imgs-tela/11_produtos_adicionar.png" width="85%">
   <br>
-  <img src="./other files/imgs-tela/12_produtos_editar.png" width="80%px">
+  <img src="./other files/imgs-tela/12_produtos_editar.png" width="85%">
 </p>
 
 ## Como acessar o projeto:
