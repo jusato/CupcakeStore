@@ -4,7 +4,7 @@
   <img src="./other files/imgs-tela/2_sobre.png" width="45%">
 </p>
 
-**Cupcake Store** foi desenvovido para uma tarefa de Programação Orientada a Objetos. Trata-se de um sistema para vendas e estoque de uma loja de cupcakes. 
+**Cupcake Store** foi desenvovido como uma forma de aprender de forma prática sobre a Programação Orientada a Objetos. Trata-se de um sistema para vendas e estoque de uma loja de cupcakes. 
 
 Há três tipos de usuários:
 - Cliente: clientes podem pesquisar por produtos disponíveis na loja, adicioná-los à sua lista de compras e alterar a quantidade ou remover itens de seu carrinho.
